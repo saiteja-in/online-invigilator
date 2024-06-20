@@ -20,7 +20,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-/teachers dashboard/backend/node_modules
+/teachers_dashboard/backend/node_modules
 node_modules
 .env
-/teachers dashboard/backend/.env
+/teachers_dashboard/backend/.env
