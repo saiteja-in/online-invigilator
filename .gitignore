@@ -22,3 +22,5 @@ yarn-debug.log*
 yarn-error.log*
 /teachers dashboard/backend/node_modules
 node_modules
+.env
+/teachers dashboard/backend/.env
